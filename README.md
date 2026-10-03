@@ -9,3 +9,5 @@ The approach: a synchronous risk check on the ship confirm step, before a tracki
 See [docs/booking-fraud-approach.md](docs/booking-fraud-approach.md).
 
 Round 1 deck (7 minutes + Q&A): [docs/Round1-Idea-and-Solution-Design.pptx](docs/Round1-Idea-and-Solution-Design.pptx). Speaker notes are the script. In PowerPoint, use View → Notes. Slide 11 is a Q&A appendix; do not present it in the 7 minutes.
+
+System flow image: [docs/system-flow.png](docs/system-flow.png).
